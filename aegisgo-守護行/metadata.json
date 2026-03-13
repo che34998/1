@@ -1,0 +1,5 @@
+{
+  "name": "Aegisgo 守護行",
+  "description": "您的全球旅行安全守護者。提供即時安全地圖、社群警報與 AI 智能安全建議。",
+  "requestFramePermissions": ["geolocation"]
+}
